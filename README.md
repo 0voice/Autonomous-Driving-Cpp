@@ -73,6 +73,7 @@
     - [场景库与交通流](core_content/README.md#场景库与交通流)
 
 - [中间件与通信](core_content/README.md#中间件与通信)
+    - [ROS/ROS 2 架构](core_content/README.md#rosros-2-架构)
     - [Fast-DDS / CycloneDDS](core_content/README.md#fast-dds--cyclonedds)
     - [some/IP + vsomeip](core_content/README.md#someip--vsomeip)
     - [Protobuf 序列化](core_content/README.md#protobuf-序列化)
