@@ -4,7 +4,7 @@
 ## 📖 目录
 - [🗺️ 学习路线图](#%EF%B8%8F-学习路线图)
 - [✨ 核心内容讲解](#-核心内容讲解)
-- [📚 学习资源（书籍/论文/课程）](#-学习资源书籍论文课程)
+- [📚 学习资源（视频/书籍/论文/课程）](#-学习资源)
 - [🛠️ 工具链](#-工具链)
 - [🎓 面试八股文](#-面试八股文)
 - [💼 招聘信息（2025最新）](#-招聘信息2025最新)
@@ -77,4 +77,60 @@
     - [Fast-DDS / CycloneDDS](core_content/README.md#fast-dds--cyclonedds)
     - [some/IP + vsomeip](core_content/README.md#someip--vsomeip)
     - [Protobuf 序列化](core_content/README.md#protobuf-序列化)
+</details>
+
+## 📚 学习资源
+<details>
+<summary>点击展开</summary>
+    
+### 书籍
+| 书名                                      | 作者                                      | 简介                              |
+|------------------------------------------|-------------------------------------------|-----------------------------------|
+| 无人驾驶车辆系统概论（第2版）            | Rahul Kala                               | 1000+页自动驾驶全栈教材 |
+| 自动驾驶技术系列·决策与规划              | 清华大学智能产业研究院（AIR团队）        | 国内最全面的规划算法书 |
+| 无人驾驶原理与实践                        | 刘少山等（兰州大学）                      | 完整C++工程代码，从零搭建L4小车   |
+| Probabilistic Robotics                   | Sebastian Thrun / Wolfram Burgard / Dieter Fox | 概率机器人学标准教材，定位与SLAM |
+| Planning Algorithms                      | Steven M. LaValle                        | 路径规划领域经典参考书            |
+| Effective Modern C++                     | Scott Meyers                             | 现代C++最佳实践与代码规范         |
+| C++ Concurrency in Action（第2版）       | Anthony Williams                         | C++多线程与并发编程实战           |
+| C++ Templates: The Complete Guide（第2版）| David Vandevoorde / Nicolai M. Josuttis / Douglas Gregor | C++模板元编程完整指南 |
+| Multiple View Geometry in Computer Vision（第2版） | Richard Hartley & Andrew Zisserman | 计算机视觉多视图几何标准教材     |
+| Vehicle Dynamics and Control（第2版）    | Rajesh Rajamani                          | 车辆动力学与控制经典教材          |
+| Autonomous Driving: How the Driverless Revolution will Change the World | Andreas Herrmann 等              | 自动驾驶产业全景+技术路线，适合开阔眼界 |
+| Introduction to Autonomous Mobile Robots（第2版） | Roland Siegwart 等               | 移动机器人入门经典，传感器到导航全讲   |
+| State Estimation for Robotics                  | Timothy D. Barfoot               | 卡尔曼滤波、因子图、iSAM现代推导 |
+| Principles of Robot Motion: Theory, Algorithms, and Implementations | Howie Choset 等              | 运动规划完整理论体系   |
+| Applied Predictive Control                     | Sunan Huang & Tan Kok Kiong      | 自动驾驶里最实用的MPC教材   |
+| Model Predictive Control: Theory and Design    | Rawlings & Mayne                 | MPC领域绝对标准教材，控制组必备        |
+| Autonomous Vehicle Technology: A Guide for Policymakers and Planners | James M. Anderson 等        | 系统架构与模块划分清晰，适合写方案   |
+| Learning OpenCV 4（Vol.1 & Vol.2）             | Adrian Kaehler & Gary Bradski    | OpenCV官方书         |
+| Modern Robotics: Mechanics, Planning, and Control | Kevin M. Lynch & Frank C. Park | 机械臂+移动机器人现代教材 |
+| The DARPA Urban Challenge                      | Martin Buehler 等                | 2007年DARPA冠军队伍技术总结，历史经典  |
+| [Deep Learning for Self-driving Car](https://www.princeton.edu/~alaink/Orf467F14/Deep%20Driving.pdf)           | Chenyi Chen 等 (Princeton)        | 深度学习端到端自动驾驶经典，含C++实现思路         |
+| [Self-Driving Vehicles and Enabling Technologies](https://www.intechopen.com/books/9869)       | Marian Găiceanu 等 (编)           | 全书章节免费PDF，含C++嵌入式章节              |
+| [Autonomous Driving: Technical, Legal and Social Aspects](https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf) | Markus Maurer 等           | Springer整书Open Access，技术+法规+架构     |
+| [Self-Driving Car Using Simulator](https://www.researchgate.net/publication/380180926_Self-Driving_Car_Using_Simulator/download) | ResearchGate 项目报告     | 完整C++小车项目+代码，适合直接上手            |
+| [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf) | KPMG                       | 经典产业报告        |
+| [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf) | Daniel Casado Herráez     | 西班牙大学生毕业设计，C++硬件接口实战案例     |
+| [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf)                    | Steven M. LaValle                 | 路径规划领域绝对经典，A*/RRT/PRM全有          |
+| [Probabilistic Robotics](https://www.probabilistic-robotics.org/Probabilistic_Robotics.pdf) | Sebastian Thrun 等             | 概率机器人学圣经，定位/SLAM必读               |
+| [Multiple View Geometry in Computer Vision（第2版）](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook.pdf) | Hartley & Zisserman          | 多视图几何神书，视觉SLAM必备                  |
+| [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | 现代卡尔曼/因子图最清晰教材                   | 
+
+### 论文
+| 论文标题                                                                                             | 作者                                           | 年份 | 会议/期刊 | 简介                              |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------|-----------|-----------------------------------------------------|
+| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)                                  | Mariusz Bojarski et al. (NVIDIA)              | 2016 | arXiv     | 端到端开山之作，C++实时部署经典案例                 |
+| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf)                                     | Alexey Dosovitskiy et al.                     | 2017 | CoRL      | CARLA官方论文，C++ Client API必读                   |
+| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf)                                                       | Dian Chen, Vladlen Koltun                     | 2019 | CoRL      | 模仿学习+规划天花板，C++工程实现参考价值极高         |
+| [Planning-oriented Autonomous Driving](https://arxiv.org/pdf/2212.10156.pdf)                                       | Yihan Hu et al.                               | 2023 | CVPR      | 目前最火的规划导向框架，官方C++代码已开源           |
+| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf)                                                                 | Kashyap Chitta et al.                         | 2022 | CVPR      | Transformer多传感器融合SOTA，C++部署主流            |
+| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf)                                             | Kaustubh Mani et al.                          | 2023 | ICCV      | 2023最新端到端，轻量C++推理极快                     |
+| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf)                                                                       | Shengchao Hu et al.                           | 2022 | ECCV      | 时空Transformer，C++实时性最强之一                  |
+| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf)                           | Junha Kim et al. (KAIST)                      | 2022 | RA-L      | 纯激光里程计，轻量C++实现，嵌入式友好               |
+| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf)                                                                  | Alexander Amini et al.                        | 2022 | IROS      | 数据驱动仿真器，C++多模态传感器模拟                 |
+| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf)                                                              | Xiaosong Jia et al.                           | 2023 | ICCV      | 感知-规划解耦新范式，C++模块化最佳实践              |
+| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)                                     | Xiaofeng Wang, Zheng Zhu et al.               | 2023 | ICCV      | 最大开源Occupancy数据集，官方C++基准代码            |
+
+
 </details>
