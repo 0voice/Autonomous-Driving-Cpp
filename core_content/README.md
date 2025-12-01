@@ -1,5 +1,64 @@
-# C++ 自动驾驶核心算法讲解
+# C++ 自动驾驶核心内容讲解
 
+## 目录
+<details>
+<summary>点击展开</summary>
+  
+- [数学与几何基础](#数学与几何基础)
+    - [Eigen](#eigen)
+    - [SO(3)、SE(3)、李代数](#so3se3李代数)
+    - [四元数与旋转表示](#四元数与旋转表示)
+    - [滤波器（KF/EKF/UKF/ESKF）](#滤波器kfekfukfeskf)
+
+- [感知](#感知)
+    - [PointPillars](#pointpillars)
+    - [CenterPoint Voxel-to-BEV + CenterHead](#centerpoint-voxel-to-bev--centerhead)
+    - [多模态融合（激光雷达+相机）](#多模态融合激光雷达相机)
+    - [TensorRT 自定义插件开发](#tensorrt-自定义插件开发)
+
+- [定位](#定位)
+    - [NDT 配准](#ndt-配准)
+    - [FAST-LIO 紧耦合](#fast-lio-紧耦合)
+    - [ESKF 误差状态卡尔曼](#eskf-误差状态卡尔曼)
+    - [GPS/IMU 紧耦合](#gpsimu-紧耦合)
+
+- [建图](#建图)
+    - [离线建图](#离线建图)
+    - [在线回环检测](#在线回环检测)
+    - [高精地图与矢量地图](#高精地图与矢量地图)
+
+- [预测](#预测)
+    - [多目标跟踪](#多目标跟踪)
+    - [意图预测](#意图预测)
+    - [轨迹预测](#轨迹预测)
+
+- [规划](#规划)
+    - [Hybrid A* + Reeds-Shepp](#hybrid-a--reeds-shepp)
+    - [Lattice Planner](#lattice-planner)
+    - [EM Planner](#em-planner)
+    - [行为决策与状态机](#行为决策与状态机)
+
+- [控制](#控制)
+    - [MPC 横纵向解耦](#mpc-横纵向解耦)
+    - [LQR 与最优控制](#lqr-与最优控制)
+    - [Stanley / Pure Pursuit](#stanley--pure-pursuit)
+    - [车辆动力学模型](#车辆动力学模型)
+
+- [端到端](#端到端)
+    - [模仿学习](#模仿学习)
+    - [端到端模型 C++ 部署](#端到端模型-c-部署)
+
+- [仿真](#仿真)
+    - [CARLA C++ Client](#carla-c-client)
+    - [传感器仿真与同步](#传感器仿真与同步)
+    - [场景库与交通流](#场景库与交通流)
+
+- [中间件与通信](#中间件与通信)
+    - [Fast-DDS / CycloneDDS](#fast-dds--cyclonedds)
+    - [some/IP + vsomeip](#someip--vsomeip)
+    - [Protobuf 序列化](#protobuf-序列化)
+</details>
+  
 ## 数学与几何基础
 所有感知/定位/规划算法的底层依赖，C++ 开发需重点掌握 **高效矩阵运算** 和 **空间变换**。
 
