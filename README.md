@@ -3,7 +3,7 @@
 
 ## 📖 目录
 - [🗺️ 学习路线图](#%EF%B8%8F-学习路线图)
-- [✨ 核心算法讲解](#-核心算法讲解)
+- [✨ 核心内容讲解](#-核心内容讲解)
 - [📚 学习资源（书籍/论文/课程）](#-学习资源书籍论文课程)
 - [🛠️ 工具链](#-工具链)
 - [🎓 面试八股文](#-面试八股文)
@@ -18,7 +18,7 @@
 
 </details>
 
-## ✨ 核心算法讲解
+## ✨ 核心内容讲解
 <details>
 <summary>点击展开</summary>
     
@@ -27,6 +27,7 @@
     - [SO(3)、SE(3)、李代数](core_content/README.md#so3se3李代数)
     - [四元数与旋转表示](core_content/README.md#四元数与旋转表示)
     - [滤波器（KF/EKF/UKF/ESKF）](core_content/README.md#滤波器kfekfukfesef)
+    - [数值优化 (Ceres/g2o)](core_content/README.md#数值优化ceresg2o)
 
 - [感知](core_content/README.md#感知)
     - [PointPillars](core_content/README.md#pointpillars)
