@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="652pt" height="884pt" viewBox="0.00 0.00 652.00 884.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 880.4)">
+<title>CppAD_Modern_Roadmap_Final</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-880.4 648,-880.4 648,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<polygon fill="#3498db" stroke="transparent" points="30,-835.4 30,-869.4 615,-869.4 615,-835.4 30,-835.4"/>
+<polygon fill="none" stroke="#000000" points="30,-835.4 30,-869.4 615,-869.4 615,-835.4 30,-835.4"/>
+<text text-anchor="start" x="120.5059" y="-848.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">Phase 1 · Modern C++ &amp; Mathematical Foundation (1-2 months)</text>
+<polygon fill="none" stroke="#000000" points="30,-801.4 30,-835.4 205,-835.4 205,-801.4 30,-801.4"/>
+<text text-anchor="start" x="87.1606" y="-814.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">C++ Core</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="205,-801.4 205,-835.4 615,-835.4 615,-801.4 205,-801.4"/>
+<polygon fill="none" stroke="#000000" points="205,-801.4 205,-835.4 615,-835.4 615,-801.4 205,-801.4"/>
+<text text-anchor="start" x="213.9615" y="-813.8" font-family="Arial" font-size="14.00" fill="#000000">Modern C++ (17/20/23), Smart Pointers, RAII, Move Semantics</text>
+<polygon fill="none" stroke="#000000" points="30,-767.4 30,-801.4 205,-801.4 205,-767.4 30,-767.4"/>
+<text text-anchor="start" x="38.9397" y="-780.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Concurrent Programming</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="205,-767.4 205,-801.4 615,-801.4 615,-767.4 205,-767.4"/>
+<polygon fill="none" stroke="#000000" points="205,-767.4 205,-801.4 615,-801.4 615,-767.4 205,-767.4"/>
+<text text-anchor="start" x="283.9678" y="-779.8" font-family="Arial" font-size="14.00" fill="#000000">atomic, thread_pool, Lock-free Concepts</text>
+<polygon fill="none" stroke="#000000" points="30,-733.4 30,-767.4 205,-767.4 205,-733.4 30,-733.4"/>
+<text text-anchor="start" x="72.3794" y="-746.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Eigen Practice</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="205,-733.4 205,-767.4 615,-767.4 615,-733.4 205,-733.4"/>
+<polygon fill="none" stroke="#000000" points="205,-733.4 205,-767.4 615,-767.4 615,-733.4 205,-733.4"/>
+<text text-anchor="start" x="290.5891" y="-745.8" font-family="Arial" font-size="14.00" fill="#000000">Quaternions, SE(3), Geometry Module</text>
+<polygon fill="none" stroke="#000000" points="30,-699.4 30,-733.4 205,-733.4 205,-699.4 30,-699.4"/>
+<text text-anchor="start" x="60.7188" y="-712.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Core Mathematics</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="205,-699.4 205,-733.4 615,-733.4 615,-699.4 205,-699.4"/>
+<polygon fill="none" stroke="#000000" points="205,-699.4 205,-733.4 615,-733.4 615,-699.4 205,-699.4"/>
+<text text-anchor="start" x="292.5351" y="-711.8" font-family="Arial" font-size="14.00" fill="#000000">Lie Algebra, EKF/ESKF, Ceres Solver</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<polygon fill="#2ecc71" stroke="transparent" points="96,-604.6 96,-638.6 548,-638.6 548,-604.6 96,-604.6"/>
+<polygon fill="none" stroke="#000000" points="96,-604.6 96,-638.6 548,-638.6 548,-604.6 96,-604.6"/>
+<text text-anchor="start" x="112.6363" y="-618" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">Phase 2 · High-Performance Toolchain &amp; Middleware (2-3 months)</text>
+<polygon fill="none" stroke="#000000" points="96,-570.6 96,-604.6 253,-604.6 253,-570.6 96,-570.6"/>
+<text text-anchor="start" x="109.1662" y="-584" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">DDS Communication</text>
+<polygon fill="#f0fff0" stroke="transparent" points="253,-570.6 253,-604.6 548,-604.6 548,-570.6 253,-570.6"/>
+<polygon fill="none" stroke="#000000" points="253,-570.6 253,-604.6 548,-604.6 548,-570.6 253,-570.6"/>
+<text text-anchor="start" x="296.6655" y="-583" font-family="Arial" font-size="14.00" fill="#000000">Fast-DDS / CycloneDDS Practice</text>
+<polygon fill="none" stroke="#000000" points="96,-536.6 96,-570.6 253,-570.6 253,-536.6 96,-536.6"/>
+<text text-anchor="start" x="130.162" y="-550" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Build Systems</text>
+<polygon fill="#f0fff0" stroke="transparent" points="253,-536.6 253,-570.6 548,-570.6 548,-536.6 253,-536.6"/>
+<polygon fill="none" stroke="#000000" points="253,-536.6 253,-570.6 548,-570.6 548,-536.6 253,-536.6"/>
+<text text-anchor="start" x="308.1245" y="-549" font-family="Arial" font-size="14.00" fill="#000000">Bazel (Apollo Level) + CMake</text>
+<polygon fill="none" stroke="#000000" points="96,-502.6 96,-536.6 253,-536.6 253,-502.6 96,-502.6"/>
+<text text-anchor="start" x="104.8703" y="-516" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Inference Acceleration</text>
+<polygon fill="#f0fff0" stroke="transparent" points="253,-502.6 253,-536.6 548,-536.6 548,-502.6 253,-502.6"/>
+<polygon fill="none" stroke="#000000" points="253,-502.6 253,-536.6 548,-536.6 548,-502.6 253,-502.6"/>
+<text text-anchor="start" x="261.6592" y="-515" font-family="Arial" font-size="14.00" fill="#000000">TensorRT Plugin Development, CUDA/SIMD</text>
+<polygon fill="none" stroke="#000000" points="96,-468.6 96,-502.6 253,-502.6 253,-468.6 96,-468.6"/>
+<text text-anchor="start" x="127.0547" y="-482" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Common Tools</text>
+<polygon fill="#f0fff0" stroke="transparent" points="253,-468.6 253,-502.6 548,-502.6 548,-468.6 253,-468.6"/>
+<polygon fill="none" stroke="#000000" points="253,-468.6 253,-502.6 548,-502.6 548,-468.6 253,-468.6"/>
+<text text-anchor="start" x="310.2462" y="-481" font-family="Arial" font-size="14.00" fill="#000000">PCL, OpenCV, Protobuf, g2o</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M322,-692.1867C322,-680.2192 322,-667.9048 322,-655.7873"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="325.5001,-655.6668 322,-645.6668 318.5001,-655.6668 325.5001,-655.6668"/>
+<text text-anchor="middle" x="380.3478" y="-664.8" font-family="Arial" font-size="14.00" fill="#000000">System Integration</text>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<polygon fill="#ffc300" stroke="transparent" points="82,-373.8 82,-407.8 562,-407.8 562,-373.8 82,-373.8"/>
+<polygon fill="none" stroke="#000000" points="82,-373.8 82,-407.8 562,-407.8 562,-373.8 82,-373.8"/>
+<text text-anchor="start" x="141.0164" y="-387.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Phase 3 · Core Module C++ Implementation (3-6 months)</text>
+<polygon fill="none" stroke="#000000" points="82,-339.8 82,-373.8 245,-373.8 245,-339.8 82,-339.8"/>
+<text text-anchor="start" x="90.7623" y="-353.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Perception Deployment</text>
+<polygon fill="#fffae5" stroke="transparent" points="245,-339.8 245,-373.8 562,-373.8 562,-339.8 245,-339.8"/>
+<polygon fill="none" stroke="#000000" points="245,-339.8 245,-373.8 562,-373.8 562,-339.8 245,-339.8"/>
+<text text-anchor="start" x="253.7658" y="-352.2" font-family="Arial" font-size="14.00" fill="#000000">CenterPoint, PointPillars TensorRT Optimization</text>
+<polygon fill="none" stroke="#000000" points="82,-305.8 82,-339.8 245,-339.8 245,-305.8 82,-305.8"/>
+<text text-anchor="start" x="91.148" y="-319.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Localization &amp; Mapping</text>
+<polygon fill="#fffae5" stroke="transparent" points="245,-305.8 245,-339.8 562,-339.8 562,-305.8 245,-305.8"/>
+<polygon fill="none" stroke="#000000" points="245,-305.8 245,-339.8 562,-339.8 562,-305.8 245,-305.8"/>
+<text text-anchor="start" x="271.2679" y="-318.2" font-family="Arial" font-size="14.00" fill="#000000">FAST-LIO, LIO-SAM, NDT Implementation</text>
+<polygon fill="none" stroke="#000000" points="82,-271.8 82,-305.8 245,-305.8 245,-271.8 82,-271.8"/>
+<text text-anchor="start" x="105.1536" y="-285.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Planning &amp; Control</text>
+<polygon fill="#fffae5" stroke="transparent" points="245,-271.8 245,-305.8 562,-305.8 562,-271.8 245,-271.8"/>
+<polygon fill="none" stroke="#000000" points="245,-271.8 245,-305.8 562,-305.8 562,-271.8 245,-271.8"/>
+<text text-anchor="start" x="314.0505" y="-284.2" font-family="Arial" font-size="14.00" fill="#000000">EM Planner, MPC, Hybrid A*</text>
+<polygon fill="none" stroke="#000000" points="82,-237.8 82,-271.8 245,-271.8 245,-237.8 82,-237.8"/>
+<text text-anchor="start" x="95.8184" y="-251.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Simulation Integration</text>
+<polygon fill="#fffae5" stroke="transparent" points="245,-237.8 245,-271.8 562,-271.8 562,-237.8 245,-237.8"/>
+<polygon fill="none" stroke="#000000" points="245,-237.8 245,-271.8 562,-271.8 562,-237.8 245,-237.8"/>
+<text text-anchor="start" x="283.1231" y="-250.2" font-family="Arial" font-size="14.00" fill="#000000">CARLA C++ Client + ROS/DDS Bridge</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M322,-461.3867C322,-449.4192 322,-437.1048 322,-424.9873"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="325.5001,-424.8668 322,-414.8668 318.5001,-424.8668 325.5001,-424.8668"/>
+<text text-anchor="middle" x="401.3422" y="-434" font-family="Arial" font-size="14.00" fill="#000000">Algorithm Implementation</text>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<polygon fill="#e74c3c" stroke="transparent" points="11,-143 11,-177 633,-177 633,-143 11,-143"/>
+<polygon fill="none" stroke="#000000" points="11,-143 11,-177 633,-177 633,-143 11,-143"/>
+<text text-anchor="start" x="103.4761" y="-156.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">Phase 4 · Engineering Deployment &amp; Career Preparation (6+ months)</text>
+<polygon fill="none" stroke="#000000" points="11,-109 11,-143 233,-143 233,-109 11,-109"/>
+<text text-anchor="start" x="59.3815" y="-122.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">System Architecture</text>
+<polygon fill="#fbefef" stroke="transparent" points="233,-109 233,-143 633,-143 633,-109 233,-109"/>
+<polygon fill="none" stroke="#000000" points="233,-109 233,-143 633,-143 633,-109 233,-109"/>
+<text text-anchor="start" x="299.2055" y="-121.4" font-family="Arial" font-size="14.00" fill="#000000">Apollo CyberRT / Autoware System Design</text>
+<polygon fill="none" stroke="#000000" points="11,-75 11,-109 233,-109 233,-75 11,-75"/>
+<text text-anchor="start" x="67.9285" y="-88.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">Functional Safety</text>
+<polygon fill="#fbefef" stroke="transparent" points="233,-75 233,-109 633,-109 633,-75 233,-75"/>
+<polygon fill="none" stroke="#000000" points="233,-75 233,-109 633,-109 633,-75 233,-75"/>
+<text text-anchor="start" x="287.911" y="-87.4" font-family="Arial" font-size="14.00" fill="#000000">ISO26262, MISRA C++, Real-time Guarantees</text>
+<polygon fill="none" stroke="#000000" points="11,-41 11,-75 233,-75 233,-41 11,-41"/>
+<text text-anchor="start" x="19.7132" y="-54.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">High-Frequency Interview Topics</text>
+<polygon fill="#fbefef" stroke="transparent" points="233,-41 233,-75 633,-75 633,-41 233,-41"/>
+<polygon fill="none" stroke="#000000" points="233,-41 233,-75 633,-75 633,-41 233,-41"/>
+<text text-anchor="start" x="241.6494" y="-53.4" font-family="Arial" font-size="14.00" fill="#000000">Closed-loop Design (200Hz), Distributed System Optimization</text>
+<polygon fill="#f39c12" stroke="transparent" points="11,-7 11,-41 633,-41 633,-7 11,-7"/>
+<polygon fill="none" stroke="#000000" points="11,-7 11,-41 633,-41 633,-7 11,-7"/>
+<text text-anchor="start" x="147.7511" y="-20.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">🏆 Ultimate Goal: Competitive for Top C++ AD Positions</text>
+</g>
+<!-- C&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>C-&gt;D</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M322,-230.5867C322,-218.6192 322,-206.3048 322,-194.1873"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="325.5001,-194.0668 322,-184.0668 318.5001,-194.0668 325.5001,-194.0668"/>
+<text text-anchor="middle" x="398.6283" y="-203.2" font-family="Arial" font-size="14.00" fill="#000000">Engineering Deployment</text>
+</g>
+</g>
+</svg>
