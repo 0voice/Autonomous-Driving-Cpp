@@ -16,15 +16,14 @@
 
 ## 🗺️ 学习路线图
 <details>
-<summary>点击展开</summary>
+<summary>点击展开/折叠 </summary>
     
 ![Roadmap](./roadmap/roadmap.svg)
 
 </details>
 
 ## ✨ 核心内容讲解
-<details>
-<summary>点击展开</summary>
+
     
 - [数学与几何基础](core_content/README.md#数学与几何基础)
     - [Eigen](core_content/README.md#eigen)
@@ -81,11 +80,10 @@
     - [Fast-DDS / CycloneDDS](core_content/README.md#fast-dds--cyclonedds)
     - [some/IP + vsomeip](core_content/README.md#someip--vsomeip)
     - [Protobuf 序列化](core_content/README.md#protobuf-序列化)
-</details>
+
 
 ## 📚 学习资源（课程/书籍/论文）
-<details>
-<summary>点击展开</summary>
+
 
 ### 课程
 
@@ -158,11 +156,10 @@
 | [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)                                     | Xiaofeng Wang, Zheng Zhu et al.               | 2023 | ICCV      | 最大开源Occupancy数据集，官方C++基准代码            |
 
 
-</details>
+
 
 ## 📊 数据集
-<details>
-<summary>点击展开</summary>
+
 
 - [KITTI](https://www.cvlibs.net/datasets/kitti/raw_data.php)  
 经典的 3D 感知基准，用于 3D 目标检测、跟踪和里程计
@@ -233,11 +230,10 @@
 - [Adverse Weather Dataset](https://light.princeton.edu/datasets/automated_driving_dataset/)  
   恶劣天气多模态数据集，含雪雨雾场景下的12K真实样本与1.5K控制样本
 
-</details>
+
 
 ## 🛠️ 工具链
-<details>
-<summary>点击展开</summary>
+
 
 - [Apollo](https://github.com/ApolloAuto/apollo)  
   百度开源的完整L4自动驾驶平台，包含感知、规划、控制、仿真全流程
@@ -302,11 +298,10 @@
 - [AUTOSAR Adaptive](https://www.autosar.org/standards/adaptive-platform/)  
   新一代车载自适应软件平台标准，支持动态更新与服务化架构
 
-</details>
+
 
 ## 💻 开源项目
-<details>
-<summary>点击展开</summary>
+
 
 - [Apollo](https://github.com/ApolloAuto/apollo)  
   百度L4全栈自动驾驶平台，感知、规划、控制、仿真全流程，支持实车部署
@@ -347,11 +342,10 @@
 - [Webots](https://github.com/cyberbotics/webots)  
   开源机器人仿真器，支持ROS2与自动驾驶车辆物理模拟
 
-</details>
+
 
 ## 🎓 面试八股文
-<details>
-<summary>点击展开</summary>
+
     
 ### 感知算法岗位
 - [简述点云滤波常用方法（直通滤波、体素滤波、统计滤波）及其适用场景](interview_questions/README.md#简述点云滤波常用方法直通滤波体素滤波统计滤波及其适用场景)
@@ -479,11 +473,10 @@
 ### C++
 - [C++高频面试题](https://github.com/0voice/cpp-learning-2025/blob/main/interview_questions/README.md)
 
-  </details>
+  
 
 ## 💼 招聘信息
-<details>
-<summary>点击展开</summary>
+
     
 以下公司正在招聘自动驾驶岗位（更新时间：2025.12.02）
 - **小米集团** - 投递链接：https://hr.xiaomi.com/campus
@@ -506,15 +499,14 @@
 - **鉴智机器人** - 投递链接：https://phigentai.jobs.feishu.cn/index
 - **奇瑞汽车**- 投递链接： https://chery1.zhiye.com/
 
-</details>
+
 
 ## 🤝 社区与贡献
-<details>
-<summary>点击展开</summary>
+
     
 非常感谢你对本仓库感兴趣！  
 
 这个仓库的目标是**收集全球最优秀的 C++ 自动驾驶相关资源，成为 C++ 开发者进入自动驾驶领域的第一站。**
 
 无论你是想补充开源项目、修复错误链接、改进分类、添加说明，还是翻译成其他语言，你的每一次贡献都让社区更强大！
-</details>
+
