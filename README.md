@@ -332,45 +332,81 @@
 
 ## 💻 开源项目
 
-
 - [Apollo](https://github.com/ApolloAuto/apollo)  
-  百度L4全栈自动驾驶平台，感知、规划、控制、仿真全流程，支持实车部署
+  百度L4全栈自动驾驶平台，支持实车部署
 
 - [Autoware](https://github.com/autowarefoundation/autoware)  
-  全球最大ROS2开源自动驾驶系统，已在多国城市道路实车运行
+  基于ROS2的开源自动驾驶系统，已在多国道路运行
 
 - [openpilot](https://github.com/commaai/openpilot)  
-  comma.ai端到端驾驶系统，真实20万+辆车在跑，L2++标杆
-
-- [CARLA](https://github.com/carla-simulator/carla)  
-  基于Unreal Engine的高保真自动驾驶仿真器，支持多传感器与交通流
-
-- [LGSVL Simulator](https://github.com/lgsvl/simulator)  
-  原LG仿真器，完美支持Apollo/Autoware闭环测试
+  comma.ai端到端驾驶系统，已在超过20万辆车上运行
 
 - [UniAD](https://github.com/OpenDriveLab/UniAD)  
-  开源端到端自动驾驶全流程（感知-预测-规划-控制）
-
-- [DriveDreamer-2](https://github.com/f1yfisher/DriveDreamer2)  
-  开源端到端驾驶模型，可直接在CARLA生成世界模型并驾驶
-
-- [OpenOccupancy](https://github.com/JeffWang987/OpenOccupancy)  
-  官方Occupancy/4D-Occupancy开源实现
+  端到端自动驾驶框架（感知-预测-规划-控制）
 
 - [VAD](https://github.com/hustvl/VAD)  
-  端到端自动驾驶开源（矢量化轨迹输出）
+  端到端自动驾驶模型，支持矢量化轨迹输出
 
 - [ST-P3](https://github.com/OpenDriveLab/ST-P3)  
-  Transformer一栈式端到端自动驾驶，感知-预测-规划全打通
+  基于Transformer的端到端感知-预测-规划一体化模型
 
-- [Donkey Car](https://github.com/autorope/donkeycar)  
-  真实1:10小车硬件+深度学习完整项目
+- [DriveDreamer-2](https://github.com/UMassFoundationsOfRobotics/DriveDreamer-2)  
+  基于世界模型的端到端驾驶框架
+
+- [CARLA](https://github.com/carla-simulator/carla)  
+  基于Unreal Engine的高保真自动驾驶仿真器
+
+- [MetaDrive](https://github.com/metadriverse/metadrive)  
+  轻量级、可生成无限场景的自动驾驶仿真环境
+
+- [SUMO](https://github.com/eclipse-sumo/sumo)  
+  开源交通流微观仿真器，广泛用于自动驾驶交通场景研究
 
 - [AirSim](https://github.com/microsoft/AirSim)  
-  Microsoft开源仿真器，支持自动驾驶与无人机多平台模拟
+  微软基于Unreal Engine的自动驾驶与无人机仿真平台
 
 - [Webots](https://github.com/cyberbotics/webots)  
-  开源机器人仿真器，支持ROS2与自动驾驶车辆物理模拟
+  开源机器人仿真器，支持高精度车辆物理模拟
+
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)  
+  基于PyTorch的3D点云目标检测工具箱
+
+- [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)  
+  OpenMMLab多模态3D目标检测框架
+
+- [BEVFusion](https://github.com/mit-han-lab/bevfusion)  
+  相机+激光雷达多模态BEV融合感知实现
+
+- [OpenOccupancy](https://github.com/open-mmlab/OpenOccupancy)  
+  官方Occupancy Network实现，支持3D/4D占用预测
+
+- [PETRv2](https://github.com/megvii-research/PETR)  
+  纯视觉3D目标检测与Occupancy预测
+
+- [QCNet](https://github.com/tianjinjiao/QCNet)  
+  基于查询的交互式运动预测模型
+
+- [HiVT](https://github.com/ZikangZhou/HiVT)  
+  基于Transformer的全局交互轨迹预测模型
+
+- [PlanT](https://github.com/autonomousvision/plant)  
+  支持语言指令与轨迹联合生成的规划模型
+
+- [Drive-WM](https://github.com/cpacker/Drive-WM)  
+  基于世界模型的自动驾驶规划框架
+
+- [WorldModel-Series](https://github.com/OpenDriveLab/WorldModel)  
+  自动驾驶世界模型系列（DriveDreamer、GAIA-1等）
+
+- [Donkey Car](https://github.com/autorope/donkeycar)  
+  1:10比例小车完整开源项目
+
+- [F1TENTH](https://github.com/f1tenth/f1tenth_system)  
+  1:10高速自动驾驶赛车平台，全球高校竞赛标准
+
+- [JetRacer](https://github.com/NVIDIA-AI-IOT/jetracer)  
+  NVIDIA官方Jetson Nano小车平台
+  
 
 ## 📰 相关文章
 <details>
