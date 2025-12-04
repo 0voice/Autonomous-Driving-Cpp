@@ -264,16 +264,6 @@
 
 ## 🛠️ 工具链
 
-
-- [Apollo](https://github.com/ApolloAuto/apollo)  
-  百度开源的完整L4自动驾驶平台，包含感知、规划、控制、仿真全流程
-
-- [Autoware](https://autoware.org/)  
-  全球最大开源自动驾驶软件栈，基于ROS 2，覆盖城市道路全场景
-
-- [OpenPilot](https://github.com/commaai/openpilot)  
-  comma.ai开源端到端驾驶系统，已在数十万辆车上真实运行
-
 - [ROS 2](https://docs.ros.org/en/rolling/Installation.html)  
   机器人与自动驾驶领域最广泛使用的中间件，支持分布式实时系统
 
