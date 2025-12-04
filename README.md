@@ -151,7 +151,7 @@
 | [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf) | Daniel Casado Herráez     | 西班牙大学生毕业设计，C++硬件接口实战案例     |
 | [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf)                    | Steven M. LaValle                 | 路径规划领域绝对经典，A*/RRT/PRM全有          |
 | [Probabilistic Robotics](https://www.probabilistic-robotics.org/Probabilistic_Robotics.pdf) | Sebastian Thrun 等             | 概率机器人学圣经，定位/SLAM必读               |
-| [Multiple View Geometry in Computer Vision（第2版）](https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook.pdf) | Hartley & Zisserman          | 多视图几何神书，视觉SLAM必备                  |
+| [Multiple View Geometry in Computer Vision（第2版）](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) | Hartley & Zisserman          | 多视图几何领域标准参考书，视觉SLAM必备                  |
 | [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | 现代卡尔曼/因子图最清晰教材                   | 
 
 ### 论文
