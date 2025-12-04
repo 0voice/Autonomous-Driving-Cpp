@@ -1,8 +1,20 @@
+<div align="center">
+   
 # Awesome C++ Autonomous Driving
+<p align="center">
+  <img src="https://img.shields.io/github/stars/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Stars&color=FFCA28&logo=star&labelColor=000" alt="stars" />
+  <img src="https://img.shields.io/github/forks/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Forks&color=ff6b6b" alt="forks" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F0voice%2FAwesome-CPP-Autonomous-Driving&label=Visitors&countColor=%2327ae60&style=flat-square" alt="visitors" />
+  <img src="https://img.shields.io/github/last-commit/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Updated&color=blueviolet" alt="commit" />
+  <img src="https://img.shields.io/badge/C%2B%2B-14%2F17%2F20-blue?logo=c%2B%2B" alt="cpp" />
+  <img src="https://img.shields.io/badge/Autonomous_Driving-Production_Grade-ff6f61" alt="ad" />
+</p>
+ 
 
 [中文](https://github.com/0voice/Awesome-CPP-Autonomous-Driving/blob/main/README.md) | **English**
 
-> **Core Positioning:** A curated collection focused on **high-performance C++**, **production-grade engineering**, and **career & interview preparation** in autonomous driving
+**Core Positioning:** A curated collection focused on **high-performance C++**, **production-grade engineering**, and **career & interview preparation** in autonomous driving
+</div>
 
 ## Table of Contents
 - [🗺️ Learning Roadmap](#%EF%B8%8F-learning-roadmap)
