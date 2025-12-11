@@ -231,6 +231,12 @@ IMU 数据融合、车辆姿态估计、点云配准。
 - 部署：TensorRT（模型加速）；
 - 点云处理：PCL（点云裁剪、滤波）。
 
+PCL相关资源：
+- [PCL 官方GitHub主仓库](https://github.com/PointCloudLibrary/pcl)  
+
+- [PCL 官方文档](https://pointclouds.org/documentation/)  
+
+
 ### CenterPoint Voxel-to-BEV + CenterHead
 **核心原理**
 改进的 3D 检测算法，先将点云划分为“体素（Voxel）”，通过 3D CNN 提取体素特征，再投影到 BEV 空间，最后用 CenterHead 检测目标中心，回归目标参数。
