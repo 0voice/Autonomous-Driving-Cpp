@@ -287,8 +287,42 @@
   开源城市驾驶仿真器
 - [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)  
   端到端自动驾驶早期代表工作
+- [End-to-End Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)  
+端到端自动驾驶挑战与前沿综述（覆盖270+论文）
 
-  
+- [Maps for Autonomous Driving: Full-process Survey and Frontiers](https://arxiv.org/pdf/2509.12632.pdf)  
+自动驾驶地图全流程综述与前沿（从HD到隐式地图）
+
+- [Efficient and Generalized End-to-End Autonomous Driving System with Latent Deep Reinforcement Learning and Demonstrations](https://arxiv.org/pdf/2401.11792.pdf)  
+潜在深度强化学习与示范的通用端到端驾驶系统
+
+- [Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)  
+深度学习端到端自动驾驶最新进展综述
+
+- [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/pdf/2505.08854.pdf)  
+生成式AI在自动驾驶中的前沿与机会综述
+
+- [Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities](https://arxiv.org/pdf/2509.08302.pdf)  
+自动驾驶感知基础模型核心能力综述
+
+- [Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](https://arxiv.org/pdf/2503.03262.pdf)  
+自动驾驶轨迹预测进展、局限与未来方向综述
+
+- [Dynamic Benchmarks: Spatial and Temporal Alignment for ADS Performance Evaluation](https://arxiv.org/pdf/2410.08903.pdf)  
+动态基准：ADS性能评估的空间时序对齐
+
+- [Comparative Safety Performance of Autonomous- and Human Drivers: A Real-World Case Study of the Waymo Driver](https://arxiv.org/pdf/2309.01206.pdf)  
+自动与人类驾驶安全性能比较：Waymo真实案例研究
+
+需要更多自动驾驶论文，可以访问以下网站：
+- [arXiv](https://arxiv.org)
+
+- [Waymo](https://waymo.com/research/)
+
+- [MDPI](https://www.mdpi.com)
+
+- [HuggingFace Papers](https://huggingface.co/papers)
+
 ## 📊 数据集
 
 
