@@ -92,105 +92,213 @@
 
 ## 📚 Courses, Books & Papers
 
-
-
 ### Courses
-| Course Name | Description |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) | University of Toronto 4-course series covering perception, localization, planning, and control |
-| [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) | Introductory course with CARLA simulator projects |
-| [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) | Motion planning course covering A*, Hybrid A*, Lattice Planner, and MPC |
-| [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) | Visual perception course on lane detection, traffic light detection, and 3D object detection; assignments use OpenCV |
-| [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) | State estimation course covering Kalman filters, particle filters, and basic SLAM; assignments support C++ implementation |
-| [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) | ETH Zürich course using Duckietown platform, full ROS2 + C++ implementation |
-| [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems) | Chalmers University course on multi-object tracking for automotive systems, includes SORT and Kalman filter implementations |
-| [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots) | ETH Zürich mobile robotics course covering path planning and obstacle avoidance |
-| [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/) | Duckietown hardware MOOC with AI-based autonomous decision-making |
-| [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323) | Udemy course on advanced Kalman filtering and sensor fusion with simulation examples |
-| [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313) | Udacity program on LiDAR, radar, and camera fusion with C++ real-time projects |
-| [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013) | Udacity full-stack autonomous driving program with C++ implementation projects |
-| [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics) | University of Michigan course on AI applications in autonomous vehicles |
-| [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/) | Udemy course using deep learning for computer vision and autonomous driving, primarily Python-based |
-| [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems) | Course on autonomous aircraft systems, covering path planning and sensor fusion applicable to ground vehicles |
+- [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)  
+  Four-course series from the University of Toronto, covering the full stack of perception, localization, planning and control.
+- [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars)  
+  Introductory course on autonomous driving, using the CARLA simulator.
+- [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars)  
+  Motion planning course covering algorithms such as A*, Hybrid A*, Lattice and MPC.
+- [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars)  
+  Visual perception course focusing on lane detection, traffic light recognition, 3D object detection, with assignments based on OpenCV.
+- [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars)  
+  State estimation and localization course covering Kalman filter, particle filter and SLAM fundamentals.
+- [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown)  
+  Small vehicle course from ETH Zurich, using ROS2, integrating software and hardware.
+- [Multi-Object Tracking for Automotive Systems](https://www.edx.org/learn/engineering/chalmers-university-of-technology-multi-object-tracking-for-automotive-systems)  
+  Multi-object tracking course for automotive systems from Chalmers University of Technology, including SORT and Kalman filter fusion.
+- [Autonomous Mobile Robots](https://www.edx.org/learn/autonomous-robotics/eth-zurich-autonomous-mobile-robots)  
+  Autonomous mobile robot course from ETH Zurich, focusing on path planning and obstacle avoidance algorithms.
+- [Self-Driving Cars with Duckietown MOOC](https://duckietown.com/self-driving-cars-with-duckietown-mooc/)  
+  Duckietown hardware MOOC covering AI robot autonomous decision-making and hardware tutorials.
+- [Advanced Kalman Filtering and Sensor Fusion](https://www.classcentral.com/course/udemy-advanced-kalman-filtering-and-sensor-fusion-401323)  
+  Advanced Kalman filtering and sensor fusion course on Udemy, including simulation implementations.
+- [Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer--nd313)  
+  Udacity Sensor Fusion Engineer Nanodegree, focusing on LiDAR+Radar+Camera fusion with C++ implementations.
+- [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer--nd013)  
+  Udacity Self-Driving Car Engineer Nanodegree covering from perception to planning, including C++ projects.
+- [AI for Autonomous Vehicles and Robotics](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics)  
+  Course from the University of Michigan on AI applications in autonomous driving, including Kalman filtering and decision-making.
+- [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/)  
+  Udemy course on building self-driving cars with deep learning, primarily using Python.
+- [Autonomous Aerospace Systems](https://www.coursera.org/learn/autonomous-aerospace-systems)  
+  Software engineering course for autonomous aerospace systems, covering path planning and sensor fusion, with knowledge transferable to ground vehicles.
+
 ### Books
-| Book Title | Author | Description |
-|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Introduction to Autonomous Vehicles (2nd Edition) | Rahul Kala | 1000+ pages full-stack autonomous driving textbook |
-| Probabilistic Robotics | Sebastian Thrun / Wolfram Burgard / Dieter Fox | Standard textbook for probabilistic robotics, localization and SLAM |
-| Planning Algorithms | Steven M. LaValle | Classic reference book in path planning field |
-| Effective Modern C++ | Scott Meyers | Modern C++ best practices and code standards |
-| C++ Concurrency in Action (2nd Edition) | Anthony Williams | C++ multi-threading and concurrent programming practice |
-| C++ Templates: The Complete Guide (2nd Edition) | David Vandevoorde / Nicolai M. Josuttis / Douglas Gregor | Complete guide to C++ template metaprogramming |
-| Multiple View Geometry in Computer Vision (2nd Edition) | Richard Hartley & Andrew Zisserman | Standard textbook for computer vision multi-view geometry |
-| Vehicle Dynamics and Control (2nd Edition) | Rajesh Rajamani | Classic textbook for vehicle dynamics and control |
-| Autonomous Driving: How the Driverless Revolution will Change the World | Andreas Herrmann et al. | Full panorama of autonomous driving industry + technical routes |
-| Introduction to Autonomous Mobile Robots (2nd Edition) | Roland Siegwart et al. | Classic introduction to mobile robots, from sensors to navigation |
-| State Estimation for Robotics | Timothy D. Barfoot | Modern derivation of Kalman filter, factor graph, iSAM |
-| Principles of Robot Motion: Theory, Algorithms, and Implementations | Howie Choset et al. | Complete theoretical system of motion planning |
-| Applied Predictive Control | Sunan Huang & Tan Kok Kiong | Most practical MPC textbook in autonomous driving |
-| Model Predictive Control: Theory and Design | Rawlings & Mayne | Absolute standard textbook in MPC field, required reading for control group |
-| Autonomous Vehicle Technology: A Guide for Policymakers and Planners | James M. Anderson et al. | Clear system architecture and module division, suitable for writing proposals |
-| Learning OpenCV 4 (Vol.1 & Vol.2) | Adrian Kaehler & Gary Bradski | Official OpenCV book |
-| Modern Robotics: Mechanics, Planning, and Control | Kevin M. Lynch & Frank C. Park | Modern textbook for robotic arms + mobile robots |
-| The DARPA Urban Challenge | Martin Buehler et al. | Technical summary of 2007 DARPA champion teams, historical classic |
-| [Deep Learning for Self-driving Car](https://www.princeton.edu/~alaink/Orf467F14/Deep%20Driving.pdf) | Chenyi Chen et al. (Princeton) | Classic deep learning end-to-end autonomous driving, includes C++ implementation ideas |
-| [Self-Driving Vehicles and Enabling Technologies](https://www.intechopen.com/books/9869) | Marian Găiceanu et al. (ed.) | Full book chapters free PDF, includes C++ embedded chapter |
-| [Autonomous Driving: Technical, Legal and Social Aspects](https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf) | Markus Maurer et al. | Springer full book Open Access, technology + regulations + architecture |
-| [Self-Driving Car Using Simulator](https://www.researchgate.net/publication/380180926_Self-Driving_Car_Using_Simulator/download) | ResearchGate project report | Complete C++ small car project + code, perfect for hands-on |
-| [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf) | KPMG | Classic industry report |
-| [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf) | Daniel Casado Herráez | Spanish university graduation project, C++ hardware interface real case |
-| [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf) | Steven M. LaValle | Absolute classic in path planning field, A*/RRT/PRM all included |
-| [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) | Sebastian Thrun et al. | Bible of probabilistic robotics, must-read for localization/SLAM |
-| [Multiple View Geometry in Computer Vision (2nd Edition)](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) | Hartley & Zisserman | God-tier book for multi-view geometry, essential for visual SLAM |
-| [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf) | Timothy D. Barfoot | Clearest modern Kalman/factor graph textbook |
+- *Introduction to Unmanned Vehicle Systems (2nd Edition)*  
+  Over 1000-page comprehensive textbook covering the full stack of autonomous driving technology.
+- *Autonomous Driving Technology Series: Decision-Making and Planning*  
+  The most comprehensive planning algorithm book in China.
+- *Principles and Practice of Unmanned Driving*  
+  Complete C++ engineering code for building an L4 autonomous vehicle from scratch.
+- *Probabilistic Robotics*  
+  Standard textbook on probabilistic robotics, focusing on localization and SLAM.
+- *Planning Algorithms*  
+  Classic reference book in the field of path planning.
+- *Effective Modern C++*  
+  Best practices and coding standards for modern C++.
+- *C++ Concurrency in Action (2nd Edition)*  
+  Practical guide to C++ multithreading and concurrent programming.
+- *C++ Templates: The Complete Guide (2nd Edition)*  
+  Comprehensive guide to C++ template metaprogramming.
+- *Multiple View Geometry in Computer Vision (2nd Edition)*  
+  Standard textbook on multi-view geometry in computer vision.
+- *Vehicle Dynamics and Control (2nd Edition)*  
+  Classic textbook on vehicle dynamics and control.
+- *Autonomous Driving: How the Driverless Revolution will Change the World*  
+  Panoramic view of the autonomous driving industry and technical routes, ideal for broadening horizons.
+- *Introduction to Autonomous Mobile Robots (2nd Edition)*  
+  Classic introductory book on mobile robots, covering from sensors to navigation.
+- *State Estimation for Robotics*  
+  Modern derivation of Kalman filtering, factor graphs and iSAM.
+- *Principles of Robot Motion: Theory, Algorithms, and Implementations*  
+  Complete theoretical system of motion planning.
+- *Applied Predictive Control*  
+  The most practical MPC textbook for autonomous driving.
+- *Model Predictive Control: Theory and Design*  
+  Definitive standard textbook in the MPC field, essential for control teams.
+- *Autonomous Vehicle Technology: A Guide for Policymakers and Planners*  
+  Clear system architecture and module division, suitable for proposal writing.
+- *Learning OpenCV 4 (Vol.1 & Vol.2)*  
+  Official OpenCV textbook.
+- *Modern Robotics: Mechanics, Planning, and Control*  
+  Modern textbook on robotic arms and mobile robots.
+- *The DARPA Urban Challenge*  
+  Technical summary of the 2007 DARPA Urban Challenge champion team, a historical classic.
+- [Deep Learning for Self-driving Car](https://www.princeton.edu/~alaink/Orf467F14/Deep%20Driving.pdf)  
+  Classic work on end-to-end autonomous driving with deep learning, including C++ implementation ideas.
+- [Self-Driving Vehicles and Enabling Technologies](https://www.intechopen.com/books/9869)  
+  Free PDF of all chapters, including C++ embedded system chapters.
+- [Autonomous Driving: Technical, Legal and Social Aspects](https://link.springer.com/content/pdf/10.1007/978-3-662-48847-8.pdf)  
+  Springer Open Access book covering technology, regulations and architecture.
+- [Self-Driving Car Using Simulator](https://www.researchgate.net/publication/380180926_Self-Driving_Car_Using_Simulator/download)  
+  Complete C++ small vehicle project with code, suitable for hands-on practice.
+- [Self-Driving Cars: Are We Ready?](https://assets.kpmg.com/content/dam/kpmg/pdf/2013/10/self-driving-cars-are-we-ready.pdf)  
+  Classic industry report.
+- [Self-Driving Car Autonomous System Overview](https://dadun.unav.edu/bitstream/10171/67589/1/2022.06.01%20TFG%20Daniel%20Casado%20Herraez.pdf)  
+  Spanish university graduation project, practical case of C++ hardware interface.
+- [Planning Algorithms](http://planning.cs.uiuc.edu/planning.pdf)  
+  Definitive classic in path planning, covering A*/RRT/PRM algorithms.
+- [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)  
+  The "bible" of probabilistic robotics, required reading for localization and SLAM.
+- [Multiple View Geometry in Computer Vision (2nd Edition)](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)  
+  Standard reference book in multi-view geometry, essential for visual SLAM.
+- [State Estimation for Robotics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AF9E1F4F7D0D7B8F6D8B8E8F9E0F1A2B/9781107159396ar.pdf/State_Estimation_for_Robotics.pdf)  
+  The clearest textbook on modern Kalman filtering and factor graphs.
 
 ### Papers
-| Title | Authors | Year | Description |
-|-------------------------------------------------------------|----------------------------|------|-----------------------------------------------------|
-| [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf) | Sun Peng et al. | 2025 | Semantic raster + online HD map diffusion fusion |
-| [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf) | Wang Yichen et al. | 2025 | Unified VLM + world model imagination-planning loop |
-| [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf) | Haochen Liu et al. | 2025 | RL + self-supervised refinement for end-to-end driving |
-| [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf) | Pengxuan Yang et al. | 2025 | Online map uncertainty modeling |
-| [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf) | Xuesong Chen et al. | 2025 | Multimodal multi-task unified 3D perception network |
-| [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf) | Bozhou Zhang et al. | 2025 | Historical prediction with spatio-temporal fusion |
-| [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf) | Zhang Yuxuan et al. | 2025 | Marker-based prompt learning to enhance AD-VQA spatial understanding |
-| [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf) | Li Chen et al. | 2025 | Dynamic risk field + improved PSO planner |
-| [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf) | Yaozu Wu et al. | 2025 | Survey on multi-agent LLM autonomous driving |
-| [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf) | Hang Wang et al. | 2025 | Survey on world models in autonomous driving |
-| [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf) | Bencheng Liao et al. | 2025 | Truncated diffusion model for end-to-end driving |
-| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) | Chonghao Sima et al. | 2025 | Graph-based VQA for driving understanding |
-| [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf) | Yi Xu et al. | 2024 | End-to-end driving via vision-language model supervision |
-| [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf) | Mingliang Zhai et al. | 2024 | World-knowledge enhanced instruction-guided reasoning |
-| [LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf) | Siwen Jiao et al. | 2024 | Vision-text interactive VLM with token selection/recovery |
-| [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf) | Aleksandr Petiushko et al. | 2024 | Generative world model |
-| [VADv2](https://arxiv.org/pdf/2402.13243.pdf) | Xiaoxiao Long et al. | 2024 | Probabilistic planning end-to-end framework |
-| [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf) | Dong-Hoon Kim et al. | 2024 | 80+ hours VLA driving dataset |
-| [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf) | Li Jianxiong et al. | 2024 | Vision-language direct planning framework |
-| [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf) | Benjamin Stoler et al. | 2024 | Skill-enabled adversarial learning for closed-loop scenario generation |
-| [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf) | Yidong Huang et al. | 2024 | LLM agents with embodied and social experience |
-| [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf) | Huiping Zhuang et al. | 2024 | Online exemplar-free continual learning for imbalanced tasks |
-| [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf) | Daniel Bogdoll et al. | 2024 | Multimodal anomaly detection benchmark |
-| [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf) | Ziang Guo et al. | 2024 | VLM assistant with human-like behavior in complex scenes |
-| [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf) | Genjia Liu et al. | 2024 | Collaborative simulation platform and end-to-end system |
-| [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf) | Haibao Yu et al. | 2024 | End-to-end driving via V2X cooperation |
-| [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf) | Mingfu Liang et al. | 2024 | Automatic data engine for object detection |
-| [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf) | Carl Lindström et al. | 2024 | Closing real-to-simulation gap with NeRFs |
-| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) | Xiaoyu Tian et al. | 2024 | Convergence of autonomous driving and large vision-language models |
-| [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf) | Yuxi Wei et al. | 2024 | Editable scene simulation via collaborative LLM agents |
-| [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf) | Yihan Hu et al. | 2023 | Planning-oriented end-to-end framework |
-| [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf) | Xiaofeng Wang et al. | 2023 | Large-scale occupancy benchmark |
-| [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf) | Xiaosong Jia et al. | 2023 | Perception-planning decoupled paradigm |
-| [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf) | Kaustubh Mani et al. | 2023 | Lightweight end-to-end model |
-| [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf) | Adam Tonderski et al. | 2023 | Neural rendering for autonomous driving |
-| [TransFuser](https://arxiv.org/pdf/2205.15997.pdf) | Kashyap Chitta et al. | 2022 | Transformer multi-sensor fusion end-to-end method |
-| [ST-P3](https://arxiv.org/pdf/2207.07601.pdf) | Shengchao Hu et al. | 2022 | Spatio-temporal Transformer for prediction and planning |
-| [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf) | Junha Kim et al. | 2022 | Pure LiDAR odometry |
-| [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf) | Alexander Amini et al. | 2022 | Data-driven simulator |
-| [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf) | Zhiqi Li et al. | 2022 | BEV-space multi-camera perception framework |
-| [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf) | Wei Xu et al. | 2021 | Tightly-coupled LiDAR-inertial odometry |
-| [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf) | Dian Chen et al. | 2019 | Privileged + imitation learning combination |
-| [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf) | Alexey Dosovitskiy et al. | 2017 | Open-source urban driving simulator |
-| [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf) | Mariusz Bojarski et al. | 2016 | Early representative work on end-to-end autonomous driving |
+- [DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion](https://arxiv.org/pdf/2508.01778.pdf)  
+  Semantic raster + online HD map diffusion fusion.
+- [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/pdf/2508.11428.pdf)  
+  VLM + world model unified imagination-planning closed loop.
+- [Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.09800.pdf)  
+  RL + self-supervised refinement for end-to-end autonomous driving.
+- [UncAD: Towards Safe End-to-End Autonomous Driving via Online Map Uncertainty](https://arxiv.org/pdf/2504.12826.pdf)  
+  Online map uncertainty modeling.
+- [M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction](https://arxiv.org/pdf/2503.18100.pdf)  
+  Multimodal multi-task unified network for 3D detection, segmentation and occupancy prediction.
+- [Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning](https://arxiv.org/pdf/2503.14182.pdf)  
+  Spatiotemporal fusion for end-to-end autonomous driving with historical prediction and planning.
+- [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](https://arxiv.org/pdf/2504.00379.pdf)  
+  Visual marker prompt learning to enhance AD-VQA spatial understanding.
+- [Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads](https://arxiv.org/pdf/2504.14747.pdf)  
+  Dynamic risk field + improved particle swarm optimization planning.
+- [Multi-Agent Autonomous Driving Systems with Large Language Models](https://arxiv.org/pdf/2502.16804.pdf)  
+  Survey on multi-agent LLM-based autonomous driving systems.
+- [The Role of World Models in Shaping Autonomous Driving](https://arxiv.org/pdf/2502.10498.pdf)  
+  Survey on the role of world models in autonomous driving.
+- [DiffusionDrive](https://arxiv.org/pdf/2411.15139.pdf)  
+  Truncated diffusion model for end-to-end autonomous driving.
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf)  
+  Graph-based VQA method for driving understanding.
+- [VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision](https://arxiv.org/pdf/2412.14446.pdf)  
+  Vision-language model supervision for end-to-end autonomous driving.
+- [World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving](https://arxiv.org/pdf/2412.06324.pdf)  
+  World knowledge-enhanced instruction-guided interactive reasoning.
+- [LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement](https://arxiv.org/pdf/2411.12980.pdf)  
+  Vision-text interaction VLM with token selection, recovery and enhancement for autonomous driving.
+- [GAIA-1: A Generative World Model](https://arxiv.org/pdf/2309.17080.pdf)  
+  Generative world model.
+- [VADv2](https://arxiv.org/pdf/2402.13243.pdf)  
+  Probabilistic planning end-to-end framework.
+- [CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845.pdf)  
+  80+ hours VLA driving dataset.
+- [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)  
+  Vision-language direct planning framework for autonomous driving.
+- [SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning](https://arxiv.org/pdf/2409.10320.pdf)  
+  Skill-enabled adversarial learning for closed-loop scenario generation.
+- [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/pdf/2406.03008.pdf)  
+  Enhancing LLM-based autonomous driving agents with embodied and social experiences.
+- [Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779.pdf)  
+  Online exemplar-free continual learning for imbalanced autonomous driving tasks.
+- [AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving](https://arxiv.org/pdf/2405.07865.pdf)  
+  Benchmark for multimodal anomaly detection in autonomous driving.
+- [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior](https://arxiv.org/pdf/2405.05885.pdf)  
+  VLM-based autonomous driving assistant with human-like behavior understanding for complex scenarios.
+- [Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://arxiv.org/pdf/2404.09496.pdf)  
+  Collaborative autonomous driving simulation platform and end-to-end system.
+- [End-to-End Autonomous Driving through V2X Cooperation](https://arxiv.org/pdf/2404.00717.pdf)  
+  End-to-end autonomous driving through V2X cooperation.
+- [AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving](https://arxiv.org/pdf/2403.17373.pdf)  
+  Automatic data engine for object detection in autonomous driving.
+- [Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap](https://arxiv.org/pdf/2403.16092.pdf)  
+  Closing the real-to-simulation gap with NeRF for autonomous driving.
+- [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf)  
+  Convergence of autonomous driving and large vision-language models.
+- [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/pdf/2402.05746.pdf)  
+  Editable scene simulation for autonomous driving via collaborative LLM agents.
+- [Planning-oriented Autonomous Driving (UniAD)](https://arxiv.org/pdf/2212.10156.pdf)  
+  Planning-oriented end-to-end framework.
+- [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)  
+  Large-scale occupancy benchmark.
+- [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf)  
+  Perception-planning decoupling solution.
+- [NEAT: Neural Attention Fields](https://arxiv.org/pdf/2309.04442.pdf)  
+  Lightweight end-to-end model.
+- [NeuRAD: Neural Rendering for Autonomous Driving](https://arxiv.org/pdf/2311.15260.pdf)  
+  Neural rendering for autonomous driving.
+- [TransFuser](https://arxiv.org/pdf/2205.15997.pdf)  
+  Transformer-based multi-sensor fusion end-to-end method.
+- [ST-P3](https://arxiv.org/pdf/2207.07601.pdf)  
+  Spatiotemporal Transformer method for prediction and planning.
+- [Efficient Lidar Odometry for Autonomous Driving](https://arxiv.org/pdf/2209.06828.pdf)  
+  LiDAR-only odometry for autonomous driving.
+- [VISTA 2.0](https://arxiv.org/pdf/2211.00931.pdf)  
+  Data-driven simulator.
+- [BEVFormer](https://arxiv.org/pdf/2203.17270.pdf)  
+  BEV-space multi-camera perception framework.
+- [FAST-LIO2](https://arxiv.org/pdf/2107.06829.pdf)  
+  Tightly-coupled LiDAR-inertial odometry.
+- [Learning by Cheating](https://arxiv.org/pdf/1912.12294.pdf)  
+  Combination of privileged learning and imitation learning.
+- [CARLA: An Open Urban Driving Simulator](https://arxiv.org/pdf/1711.03938.pdf)  
+  Open-source urban driving simulator.
+- [End-to-End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)  
+  Early representative work on end-to-end autonomous driving.
+- [End-to-End Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)  
+  Survey on challenges and frontiers of end-to-end autonomous driving (covering over 270 papers).
+- [Maps for Autonomous Driving: Full-process Survey and Frontiers](https://arxiv.org/pdf/2509.12632.pdf)  
+  Full-process survey and frontiers of maps for autonomous driving (from HD maps to implicit maps).
+- [Efficient and Generalized End-to-End Autonomous Driving System with Latent Deep Reinforcement Learning and Demonstrations](https://arxiv.org/pdf/2401.11792.pdf)  
+  Efficient and generalized end-to-end autonomous driving system with latent deep reinforcement learning and demonstrations.
+- [Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)  
+  Survey on recent advancements in end-to-end autonomous driving using deep learning.
+- [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/pdf/2505.08854.pdf)  
+  Frontiers and opportunities of generative AI for autonomous driving.
+- [Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities](https://arxiv.org/pdf/2509.08302.pdf)  
+  Survey on foundation models for autonomous driving perception through core capabilities.
+- [Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions](https://arxiv.org/pdf/2503.03262.pdf)  
+  Progress, limitations and future directions of trajectory prediction for autonomous driving.
+- [Dynamic Benchmarks: Spatial and Temporal Alignment for ADS Performance Evaluation](https://arxiv.org/pdf/2410.08903.pdf)  
+  Dynamic benchmarks: spatial and temporal alignment for ADS performance evaluation.
+- [Comparative Safety Performance of Autonomous- and Human Drivers: A Real-World Case Study of the Waymo Driver](https://arxiv.org/pdf/2309.01206.pdf)  
+  Comparative safety performance of autonomous and human drivers: a real-world case study of the Waymo Driver.
+
+For more autonomous driving papers, you can visit the following websites:
+- [arXiv](https://arxiv.org)  
+- [Waymo](https://waymo.com/research/)  
+- [MDPI](https://www.mdpi.com)  
+- [HuggingFace Papers](https://huggingface.co/papers)
 
 ## 📊 Datasets
   
