@@ -937,7 +937,7 @@
 ## 💼 招聘信息
 
     
-以下公司正在招聘自动驾驶岗位（更新时间：2025.12.06）
+以下公司正在招聘自动驾驶岗位（更新时间：2025.12.12）
 - **小米集团** - 投递链接：https://hr.xiaomi.com/campus
 - **元戎启行** - 投递链接：https://app.mokahr.com/campus-recruitment/deeproute/145894#/home
 - **零跑汽车** - 投递链接：https://leapmotor.zhiye.com/campus
@@ -965,6 +965,7 @@
 - **奔驰**- 投递链接：https://career.mercedes-benz.com.cn/recruiting/company/13746/job-list?aj_source=career_website&aj_code=career_website_pc
 - **宝马** - 投递链接：https://www.bmwgroup.jobs/cn/en.html
 - **滴滴** - 投递链接： https://talent.didiglobal.com/social/list/1
+- **阿维塔** - 投递链接：https://talent.avatr.com/915151/
 
 ## 🤝 社区与贡献
 
