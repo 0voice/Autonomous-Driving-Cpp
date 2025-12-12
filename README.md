@@ -938,34 +938,43 @@
 
     
 以下公司正在招聘自动驾驶岗位（更新时间：2025.12.12）
-- **小米集团** - 投递链接：https://hr.xiaomi.com/campus
-- **元戎启行** - 投递链接：https://app.mokahr.com/campus-recruitment/deeproute/145894#/home
-- **零跑汽车** - 投递链接：https://leapmotor.zhiye.com/campus
-- **地平线** - 投递链接：https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html
-- **小马智行** - 投递链接：https://campus.pony.ai/
-- **小鹏汽车** - 投递链接：https://xiaopeng.jobs.feishu.cn/campus
-- **百度** - 投递链接：https://talent.baidu.com/jobs/
-- **比亚迪** - 投递链接：https://job.byd.com
-- **轻舟智航** - 投递链接：https://www.qcraft.ai/careers
-- **蔚来汽车** - 投递链接：https://nio.jobs.feishu.cn/campus
-- **佑驾创新** - 投递链接：https://www.minieye.cc
-- **禾赛科技** - 投递链接：https://kwh0jtf778.jobs.feishu.cn/229043
-- **经纬恒润** - 投递链接：http://zhaopin.hirain.com
-- **柳工** - 投递链接：https://liugong.hotjob.cn/
-- **德赛西威** - 投递链接：https://yesv-desaysv.jobs.feishu.cn/index
-- **主线科技** - 投递链接：https://app.mokahr.com/social-recruitment/trunk/39504#/
-- **Momenta** - 投递链接：https://momenta.jobs.feishu.cn/talent
-- **鉴智机器人** - 投递链接：https://phigentai.jobs.feishu.cn/index
-- **奇瑞汽车**- 投递链接： https://chery1.zhiye.com/
-- **长安汽车**- 投递链接：https://changan.zhiye.com/
-- **北汽福田**- 投递链接：https://futurefoton.zhiye.com/
-- **英伟达**- 投递链接： https://nvidia.eightfold.ai/careers
-- **友道智途**- 投递链接：http://www.utopilot.ai/joinus/list-5.html
-- **中科创达** - 投递链接：https://www.thundersoft.com/join-us/
-- **奔驰**- 投递链接：https://career.mercedes-benz.com.cn/recruiting/company/13746/job-list?aj_source=career_website&aj_code=career_website_pc
-- **宝马** - 投递链接：https://www.bmwgroup.jobs/cn/en.html
-- **滴滴** - 投递链接： https://talent.didiglobal.com/social/list/1
-- **阿维塔** - 投递链接：https://talent.avatr.com/915151/
+- [小米集团](https://hr.xiaomi.com/campus)
+- [元戎启行](https://app.mokahr.com/campus-recruitment/deeproute/145894#/home)
+- [零跑汽车](https://leapmotor.zhiye.com/campus)
+- [地平线](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html)
+- [小马智行](https://campus.pony.ai/)
+- [小鹏汽车](https://xiaopeng.jobs.feishu.cn/campus)
+- [百度](https://talent.baidu.com/jobs/)
+- [比亚迪](https://job.byd.com)
+- [轻舟智航](https://www.qcraft.ai/careers)
+- [蔚来汽车](https://nio.jobs.feishu.cn/campus)
+- [佑驾创新](https://www.minieye.cc)
+- [禾赛科技](https://kwh0jtf778.jobs.feishu.cn/229043)
+- [经纬恒润](http://zhaopin.hirain.com)
+- [柳工](https://liugong.hotjob.cn/)
+- [德赛西威](https://yesv-desaysv.jobs.feishu.cn/index)
+- [主线科技](https://app.mokahr.com/social-recruitment/trunk/39504#/)
+- [Momenta](https://momenta.jobs.feishu.cn/talent)
+- [鉴智机器人](https://phigentai.jobs.feishu.cn/index)
+- [奇瑞汽车](https://chery1.zhiye.com/)
+- [长安汽车](https://changan.zhiye.com/)
+- [北汽福田](https://futurefoton.zhiye.com/)
+- [英伟达](https://nvidia.eightfold.ai/careers)
+- [友道智途](http://www.utopilot.ai/joinus/list-5.html)
+- [中科创达](https://www.thundersoft.com/join-us/)
+- [奔驰](https://career.mercedes-benz.com.cn/recruiting/company/13746/job-list?aj_source=career_website&aj_code=career_website_pc)
+- [宝马](https://www.bmwgroup.jobs/cn/en.html)
+- [滴滴](https://talent.didiglobal.com/social/list/1)
+- [阿维塔](https://talent.avatr.com/915151/)
+- [黑芝麻智能](https://bsthr.zhiye.com/)
+- [理想汽车](https://www.lixiang.com/employ/campus.html?fromJob=1)
+- [驭势科技](https://app.mokahr.com/campus_apply/yushi/3773#/jobs?zhineng=0)
+- [博世中国](https://app.mokahr.com/campus-recruitment/bosch/73873#/)
+- [速腾聚创](https://app.mokahr.com/campus-recruitment/robosense/69887#/)
+- [上汽集团](https://saic-recruit.saicmotor.com/recruit/pc/#/collegeRecruit)
+- [吉利汽车](https://careers.geelytech.com/)
+- [东风汽车](https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/index.html#/)
+- [中国一汽](https://faw-zhaopin.hotjob.cn/)
 
 ## 🤝 社区与贡献
 
